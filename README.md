@@ -12,14 +12,14 @@ Swift Package Manager that supports hybrid C++/Swift builds.
 ## CLI Swift Package Manager Example
 ====================================
 
-If you copy/download `examples/swift-package-manager` (`examples` is a top-level folder of this repository)
+If you copy/download `Examples` (`Examples` is a top-level folder of this repository)
 you can play around with some simple CLI samples that show off building with SPM.
 
-For example, put a copy of `examples/swift-package-manager` in /home/some-user, and then:
+For example, put a copy of `Examples` in /home/some-user, and then:
 
 Then:
 ```
-    $ cd /home/some-user/swift-package-manager
+    $ cd /home/some-user/Examples
     $ swift build
     (output)
 
