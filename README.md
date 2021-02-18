@@ -44,7 +44,6 @@ from the command line easily as well:
     ...
 
     $ cd Opentimelineio
-    $ git checkout spm      # omit this once the PR is closed
     $ swift build	    # optional: swift test will do a build anyway, as needed
     ...
 
